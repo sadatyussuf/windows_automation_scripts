@@ -11,10 +11,10 @@
     Run "C:\Users\user\AppData\Local\Programs\Notion\Notion.exe"
 }
 
-#E::
-{
-    Run "C:\Users\user\AppData\Local\Programs\Notion\Notion.exe"
-}
+; #C::
+; {
+;     Run ""
+; }
 
 #S::
 {
@@ -24,3 +24,4 @@
 {
     Run "C:\Program Files\Git\bin\bash.exe"
 }
+
